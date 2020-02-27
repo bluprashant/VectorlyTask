@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 27 15:14:03 2020
 
-@author: katsh
+@author: PrashantKatiyar
 """
 
 import cv2
